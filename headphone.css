@@ -1,0 +1,102 @@
+body{
+    padding: 20px;
+}
+.justify{
+    justify-content: space-around;
+}
+.border{
+    border-radius: 10px;
+    padding:30px;
+    width:800px;
+}
+.button{
+    background-color: black;
+    color: gray;
+    padding: 6px;
+    border-radius: 4px;
+    padding: 10px;
+    
+}
+.flex{
+    display: flex;
+}
+.el h1 h2 h3 p h4{
+   
+    text-decoration: none;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo{
+    height: 30px;
+    
+}
+.space{
+    display: flex;
+    justify-content: space-around;
+}
+.main{
+    height: 500px;
+}
+.white{
+    color: white;
+}
+.center{
+    text-align: center;
+
+}
+.widthheigth{
+    background-color: rgb(72, 65, 65);
+    height:200px;
+    width:200px;
+    border-radius: 4px;
+    padding:20px;
+    margin:40px;
+}
+.logosize{
+   width:20px;
+   height:20px;
+}
+.image{
+ height:150px;
+ width:150px;
+}
+.position{
+    position:relative;
+    top:-60px;
+}
+a{ 
+    padding: 7px;
+    text-decoration: none;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.span{
+    padding: 8px;
+    background-color: black;
+    border-radius: 5px;
+
+}
+.gray{
+    background-color:  rgb(72, 65, 65);
+    padding: 4px;
+}
+.margin{
+    margin:25px;
+}
+.height{
+    height:40px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    width:250px;
+}
+.align{
+    align-items: center;
+}
+.inlineblock{
+    display: inline-block;
+}
+.between{
+    justify-content: space-between;
+}
